@@ -27,7 +27,10 @@ Data contains 101rows x 9columns
 
 8.Plot_3                                              
 
-9.Aparrtment and Flats_3                              
+9.Aparrtment and Flats_3   
+
+**Apartment and Flats_1,Individual Houses_1 and Plot_1 are collected from first website.**
+**Similarily all data are collected.**
 
 **I have created 4 new to columns.**
 1.Apartment and Flat avg 
