@@ -11,13 +11,21 @@ Data contains 101rows x 9columns
 
 **Columns in data**       **data type**
 1.Locality                  object
+
 2.Apartment and Flats_1     float64
+
 3.Individual Houses_1       float64
+
 4.Plot_1                    float64
+
 5.Apartment and Flat_2      float64
+
 6.Individual House_2        float64
+
 7.Plot_2                    float64
+
 8.Plot_3                    float64
+
 9.Aparrtment and Flats_3    float64
 
 **I have created 4 new to columns.**
