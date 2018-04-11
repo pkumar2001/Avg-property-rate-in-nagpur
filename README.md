@@ -9,25 +9,25 @@ To accomplish this assignment data is collected from various property websites o
 
 Data contains 101rows x 9columns
 
-**Columns in data**                                   **data type**
+**Columns in data**                                   
 
-1.Locality                                            object
+1.Locality                                           
 
-2.Apartment and Flats_1                               float64
+2.Apartment and Flats_1                               
 
-3.Individual Houses_1                                 float64
+3.Individual Houses_1                                 
 
-4.Plot_1                                              float64
+4.Plot_1                                             
 
-5.Apartment and Flat_2                                float64
+5.Apartment and Flat_2                                
 
-6.Individual House_2                                  float64
+6.Individual House_2                                  
 
-7.Plot_2                                              float64
+7.Plot_2                                              
 
-8.Plot_3                                              float64
+8.Plot_3                                              
 
-9.Aparrtment and Flats_3                              float64
+9.Aparrtment and Flats_3                              
 
 **I have created 4 new to columns.**
 1.Apartment and Flat avg 
